@@ -1,0 +1,17 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(®Û¦©ıÿÿÿÿ8±¤’Ú¹2
+G	java:S106$"+Replace this use of System.out by a logger.(¶ŞŞ8³¤’Ú¹2
+L	java:S106&"+Replace this use of System.out by a logger.(òáÌÖùÿÿÿÿ8´¤’Ú¹2
+L	java:S106,"+Replace this use of System.out by a logger.(™‹œüÿÿÿÿ8µ¤’Ú¹2
+L	java:S106:"+Replace this use of System.out by a logger.(ñ…œ¯ûÿÿÿÿ8Ä‘”Ú¹2
+G	java:S106<"+Replace this use of System.out by a logger.(×¶Èç8Å‘”Ú¹2
+L	java:S106B"+Replace this use of System.out by a logger.(Á­Âøÿÿÿÿ8Å‘”Ú¹2
+G	java:S106M"+Replace this use of System.out by a logger.(É¶³8Å‘”Ú¹2
+L	java:S106O"+Replace this use of System.out by a logger.(ÍœüÛüÿÿÿÿ8´¤’Ú¹2
+L	java:S106Q"+Replace this use of System.out by a logger.(ª°ô¦ûÿÿÿÿ8Æ‘”Ú¹2
+F	java:S106W"+Replace this use of System.out by a logger.(»˜·V8Æ‘”Ú¹2
+L	java:S106b"+Replace this use of System.out by a logger.(³ˆéğıÿÿÿÿ8Æ‘”Ú¹2
+G	java:S106d"+Replace this use of System.out by a logger.(ÉåˆÏ8µ¤’Ú¹2
+G	java:S106f"+Replace this use of System.out by a logger.(ã…™8Æ‘”Ú¹2
+M
+java:S1068"+Remove this unused "mReader" private field.(ÈÑ•ÿÿÿÿÿ8µ¤’Ú¹2

@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø’ı•ıÿÿÿÿ8Ç€¿˜²2
+o	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦»‘‡ùÿÿÿÿ8Ù€¿˜²2
+a
+java:S4143!"DVerify this is the key that was intended; it was already set before.(»©üé8ˆ¿˜²2
+
+java:S11867"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şèí¦8—¿˜²2
+
+java:S1186C"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şèí¦8™¿˜²2
+
+java:S1186O"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şèí¦8š¿˜²2
+
+java:S1186["€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şèí¦8›¿˜²2
+
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(şèí¦8œ¿˜²2
+]	java:S125m"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8â£É™²2

@@ -1,0 +1,1 @@
+T:\AndroidWorkSpace\UniPlugin-Hello-AS1\app\build\intermediates\cxx\Debug\5231562s\obj\arm64-v8a

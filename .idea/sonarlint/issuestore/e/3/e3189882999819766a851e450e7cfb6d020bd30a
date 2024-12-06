@@ -1,0 +1,15 @@
+
+l
+java:S11921"JDefine a constant instead of duplicating this literal "productId" 5 times.(ğ‚Ù±şÿÿÿÿ8©¬ß³2
+k
+java:S11920"IDefine a constant instead of duplicating this literal "vendorId" 5 times.(ÀıÁúÿÿÿÿ8©¬ß³2
+h
+java:S1192/"KDefine a constant instead of duplicating this literal "deviceName" 3 times.(ºõÓÅ8©¬ß³2
+k
+java:S1192."NDefine a constant instead of duplicating this literal "hasPermission" 4 times.(„êê8©¬ß³2
+x
+java:S1450"VRemove the "mDevice" field and declare it as a local variable in the relevant methods.(ÿøÏŞùÿÿÿÿ8’­ß³2
+c
+java:S1128"FRemove this unused import 'io.dcloud.feature.uniapp.common.UniModule'.(Ì§Á·8›ñâ³2
+M
+java:S1068"+Remove this unused "mDevice" private field.(ÿøÏŞùÿÿÿÿ8£­ß³2

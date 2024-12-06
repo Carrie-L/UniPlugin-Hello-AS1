@@ -1,0 +1,52 @@
+
+w
+java:S1104"UMake AntennaID a static final constant or non-public and provide accessors if needed.(É©¿ÿÿÿÿÿ8±©áÊ¹2
+q
+java:S1104"UMake Frequency a static final constant or non-public and provide accessors if needed.(°ø¢J8±©áÊ¹2
+w
+java:S1104"UMake TimeStamp a static final constant or non-public and provide accessors if needed.(ÀÍÎÚúÿÿÿÿ8±©áÊ¹2
+|
+java:S1104	"ZMake EmbededDatalen a static final constant or non-public and provide accessors if needed.(€…Èûÿÿÿÿ8±©áÊ¹2
+t
+java:S1104
+"WMake EmbededData a static final constant or non-public and provide accessors if needed.(âÈçß8±©áÊ¹2
+q
+java:S1104"OMake Res a static final constant or non-public and provide accessors if needed.(—À½†ıÿÿÿÿ8±©áÊ¹2
+o
+java:S1104"RMake Epclen a static final constant or non-public and provide accessors if needed.(øÑÜÛ8²©áÊ¹2
+j
+java:S1104"NMake PC a static final constant or non-public and provide accessors if needed.(´¾8²©áÊ¹2
+q
+java:S1104"OMake CRC a static final constant or non-public and provide accessors if needed.(à÷£¹úÿÿÿÿ8²©áÊ¹2
+n
+java:S1104"QMake EpcId a static final constant or non-public and provide accessors if needed.(ÛÆâá8²©áÊ¹2
+n
+java:S1104"QMake Phase a static final constant or non-public and provide accessors if needed.(Âµ¼¥8²©áÊ¹2
+v
+java:S1104"TMake protocol a static final constant or non-public and provide accessors if needed.(œ¢•£øÿÿÿÿ8²©áÊ¹2
+p
+java:S1104"SMake ReadCnt a static final constant or non-public and provide accessors if needed.(‡¶‰¯8²©áÊ¹2
+m
+java:S1104"PMake RSSI a static final constant or non-public and provide accessors if needed.(¥è¤¥8²©áÊ¹2
+u	java:S116"TRename this field "AntennaID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É©¿ÿÿÿÿÿ8ã©áÊ¹2
+o	java:S116"TRename this field "Frequency" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ø¢J8ã©áÊ¹2
+u	java:S116"TRename this field "TimeStamp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÍÎÚúÿÿÿÿ8ã©áÊ¹2
+z	java:S116	"YRename this field "EmbededDatalen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€…Èûÿÿÿÿ8ã©áÊ¹2
+r	java:S116
+"VRename this field "EmbededData" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÈçß8ã©áÊ¹2
+o	java:S116"NRename this field "Res" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—À½†ıÿÿÿÿ8ã©áÊ¹2
+m	java:S116"QRename this field "Epclen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÑÜÛ8ã©áÊ¹2
+h	java:S116"MRename this field "PC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¾8ã©áÊ¹2
+o	java:S116"NRename this field "CRC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à÷£¹úÿÿÿÿ8ã©áÊ¹2
+l	java:S116"PRename this field "EpcId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÆâá8ã©áÊ¹2
+l	java:S116"PRename this field "Phase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âµ¼¥8ä©áÊ¹2
+n	java:S116"RRename this field "ReadCnt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¶‰¯8ä©áÊ¹2
+k	java:S116"ORename this field "RSSI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥è¤¥8ä©áÊ¹2
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£„Ôçúÿÿÿÿ8ä©áÊ¹2
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(²ÈŞ8é©áÊ¹2
+G
+java:S1905"*Remove this unnecessary cast to "TAGINFO".(Ä¢Ø8é©áÊ¹2
+6
+java:S2225"Return a non null object.(¥¹ï8ê©áÊ¹2

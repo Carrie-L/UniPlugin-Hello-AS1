@@ -1,0 +1,36 @@
+{
+  "nativePlugins": [
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "UHFModule",
+          "class": "io.dcloud.uhfplugins.UHFModule"
+        }
+      ]
+    },
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "UsbModule",
+          "class": "io.dcloud.uhfplugins.UsbModule"
+        }
+      ]
+    },
+    {
+      "plugins": [
+        {
+          "type": "module",
+          "name": "PermissionModule",
+          "class": "io.dcloud.uhfplugins.PermissionModule"
+        }
+      ]
+    },
+    {
+      "hooksClass": "",
+      "plugins": [
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+
+_
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(åŠ—›8¦¤’Ú¹2
+x
+java:S1450"VRemove the "mReader" field and declare it as a local variable in the relevant methods.(ÈÑ•ÿÿÿÿÿ8¨¤’Ú¹2
+L	java:S106"+Replace this use of System.out by a logger.(Ê½İãüÿÿÿÿ8«¤’Ú¹2
+L	java:S106*"+Replace this use of System.out by a logger.(®Û¦©ıÿÿÿÿ8°¤’Ú¹2
+G	java:S106>"+Replace this use of System.out by a logger.(¶ŞŞ8±¤’Ú¹2
+L	java:S106@"+Replace this use of System.out by a logger.(òáÌÖùÿÿÿÿ8±¤’Ú¹2
+L	java:S106F"+Replace this use of System.out by a logger.(™‹œüÿÿÿÿ8²¤’Ú¹2
+L	java:S106T"+Replace this use of System.out by a logger.(ñ…œ¯ûÿÿÿÿ8³¤’Ú¹2
+G	java:S106V"+Replace this use of System.out by a logger.(×¶Èç8³¤’Ú¹2
+L	java:S106\"+Replace this use of System.out by a logger.(Á­Âøÿÿÿÿ8³¤’Ú¹2
+G	java:S106g"+Replace this use of System.out by a logger.(É¶³8³¤’Ú¹2
+L	java:S106i"+Replace this use of System.out by a logger.(ÍœüÛüÿÿÿÿ8´¤’Ú¹2
+L	java:S106k"+Replace this use of System.out by a logger.(ª°ô¦ûÿÿÿÿ8´¤’Ú¹2
+F	java:S106q"+Replace this use of System.out by a logger.(»˜·V8´¤’Ú¹2
+L	java:S106|"+Replace this use of System.out by a logger.(³ˆéğıÿÿÿÿ8´¤’Ú¹2
+G	java:S106~"+Replace this use of System.out by a logger.(ÉåˆÏ8µ¤’Ú¹2
+H	java:S106€"+Replace this use of System.out by a logger.(ã…™8µ¤’Ú¹2
+M
+java:S1068"+Remove this unused "mReader" private field.(ÈÑ•ÿÿÿÿÿ8µ¤’Ú¹2

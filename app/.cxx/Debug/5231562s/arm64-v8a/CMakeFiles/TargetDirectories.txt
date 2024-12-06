@@ -1,0 +1,2 @@
+T:/AndroidWorkSpace/UniPlugin-Hello-AS1/app/.cxx/Debug/5231562s/arm64-v8a/CMakeFiles/edit_cache.dir
+T:/AndroidWorkSpace/UniPlugin-Hello-AS1/app/.cxx/Debug/5231562s/arm64-v8a/CMakeFiles/rebuild_cache.dir

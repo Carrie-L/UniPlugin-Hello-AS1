@@ -1,0 +1,15 @@
+
+o	java:S116"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şğ„ùÿÿÿÿ8ãã¯Ú¹2
+C
+java:S1170"!Make this final field static too.(şğ„ùÿÿÿÿ8äã¯Ú¹2
+
+java:S11864"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(òá¤…8åã¯Ú¹2
+Z	java:S107Ğ"=Method has 10 parameters, which is greater than 7 authorized.(Âš°ƒ8æã¯Ú¹2
+Y	java:S107é"=Method has 11 parameters, which is greater than 7 authorized.(ÆÑ·58æã¯Ú¹2
+Y	java:S107ÿ"<Method has 8 parameters, which is greater than 7 authorized.(éï¬­8æã¯Ú¹2
+^	java:S107•"<Method has 9 parameters, which is greater than 7 authorized.(ê‡øÿÿÿÿ8æã¯Ú¹2
+k	java:S100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¡òë8üã¯Ú¹2
+p	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÅìÿÿÿÿÿ8ıã¯Ú¹2
+^	java:S125š"<This block of commented-out lines of code should be removed.(¤Ğ¬ûÿÿÿÿ8ıã¯Ú¹2
+I
+java:S1068"'Remove this unused "TAG" private field.(şğ„ùÿÿÿÿ8€ä¯Ú¹2

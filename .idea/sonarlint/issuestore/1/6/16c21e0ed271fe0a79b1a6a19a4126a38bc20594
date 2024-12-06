@@ -1,0 +1,20 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(®Û¦©ıÿÿÿÿ8Ã±ÜÍ¹2
+G	java:S106&"+Replace this use of System.out by a logger.(¶ŞŞ8Ò±ÜÍ¹2
+L	java:S106("+Replace this use of System.out by a logger.(òáÌÖùÿÿÿÿ8á±ÜÍ¹2
+L	java:S106."+Replace this use of System.out by a logger.(™‹œüÿÿÿÿ8øïÕÍ¹2
+L	java:S106<"+Replace this use of System.out by a logger.(ñ…œ¯ûÿÿÿÿ8ÿ±ÜÍ¹2
+G	java:S106>"+Replace this use of System.out by a logger.(×¶Èç8²ÜÍ¹2
+L	java:S106D"+Replace this use of System.out by a logger.(Á­Âøÿÿÿÿ8ùïÕÍ¹2
+G	java:S106O"+Replace this use of System.out by a logger.(É¶³8­²ÜÍ¹2
+L	java:S106Q"+Replace this use of System.out by a logger.(ÍœüÛüÿÿÿÿ8½²ÜÍ¹2
+L	java:S106S"+Replace this use of System.out by a logger.(ª°ô¦ûÿÿÿÿ8½²ÜÍ¹2
+F	java:S106Y"+Replace this use of System.out by a logger.(»˜·V8ûïÕÍ¹2
+L	java:S106d"+Replace this use of System.out by a logger.(³ˆéğıÿÿÿÿ8¾²ÜÍ¹2
+G	java:S106f"+Replace this use of System.out by a logger.(ÉåˆÏ8¾²ÜÍ¹2
+G	java:S106h"+Replace this use of System.out by a logger.(ã…™8¿²ÜÍ¹2
+]	java:S125t"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8¿²ÜÍ¹2
+Y
+java:S1128"<Remove this unused import 'com.alibaba.fastjson.JSONObject'.(äıµ8’±àÍ¹2
+M
+java:S1068"+Remove this unused "mReader" private field.(ÈÑ•ÿÿÿÿÿ8î¸ÇÍ¹2

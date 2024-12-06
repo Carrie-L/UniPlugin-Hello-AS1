@@ -1,0 +1,44 @@
+
+\	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(’Ñ³Ë
+f	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œğËÓ
+f	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂàşĞ
+?
+java:S1604»"(Make this anonymous inner class a lambda(öÄ°«
+D
+java:S1604ˆ"(Make this anonymous inner class a lambda(Ôàœùÿÿÿÿ
+g
+java:S1104,"QMake TITLE a static final constant or non-public and provide accessors if needed.(„„Òé
+r
+java:S1104-"WMake TITLE_COLOR a static final constant or non-public and provide accessors if needed.(…ô‰üøÿÿÿÿ
+A
+java:S1444,"+Make this "public static TITLE" field final(„„Òé
+L
+java:S1444-"1Make this "public static TITLE_COLOR" field final(…ô‰üøÿÿÿÿ
+O
+java:S2755Ï"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ
+h	java:S116;"SRename this field "SELECTED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’²â§
+f
+java:S3008,"PRename this field "TITLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„„Òé
+q
+java:S3008-"VRename this field "TITLE_COLOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ô‰üøÿÿÿÿ
+e
+java:S3252S"OUse static access with "android.content.DialogInterface" for "BUTTON_POSITIVE".(ø¤É¸
+j
+java:S3252T"OUse static access with "android.content.DialogInterface" for "BUTTON_NEGATIVE".(¸ã÷Êøÿÿÿÿ
+i
+java:S3252U"NUse static access with "android.content.DialogInterface" for "BUTTON_NEUTRAL".(æ£•«ıÿÿÿÿ
+V	java:S125b"<This block of commented-out lines of code should be removed.(¦Íû”şÿÿÿÿ
+Y
+java:S1155x">Use isEmpty() to check whether the collection is empty or not.(±æÄ‡ûÿÿÿÿ
+^
+java:S3252œ"GUse static access with "android.widget.FrameLayout" for "LayoutParams".(¤½Ãû
+Z
+java:S1155¯">Use isEmpty() to check whether the collection is empty or not.(£›Êˆÿÿÿÿÿ
+e
+java:S3252³"NUse static access with "com.taobao.weex.utils.WXResourceUtils" for "getColor".(ÑÈšœ
+7	java:S131Ä""Add a default case to this switch.(ìúÇV
+e
+java:S3252"NUse static access with "com.taobao.weex.utils.WXResourceUtils" for "getColor".(ú×—ˆ
+>
+java:S1125Ø"'Remove the unnecessary boolean literal.(á×¨Ô
+=	java:S131ù""Add a default case to this switch.(ı•¹ ÿÿÿÿÿ
